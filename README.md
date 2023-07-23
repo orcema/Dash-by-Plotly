@@ -1,3 +1,4 @@
+#locked
 # If you Forked it, Support it
 A growing number of viewers are looking for high quality, professional content on Dash, which is hard to find. I am trying to fill that gap and help you grow in the area of analytic web apps in Python. 
 
